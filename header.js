@@ -73,12 +73,12 @@ class Header extends HTMLElement {
 									</div>
 									BlueSky
 								</a>
-								<a style="display: flex" href="https://discord.gg/MaQ88XaRQr" target="_blank">
+								<!--<a style="display: flex" href="https://discord.gg/MaQ88XaRQr" target="_blank">
 									<div class="logo">
 										<img style="width:100%; margin: 0em" src="/assets/logos/discord.svg">
 									</div>
 									Discord Server
-								</a>
+								</a>-->
 								<!--<a style="display: flex" href="https://www.facebook.com/Project1114" target="_blank">
 									<div class="logo">
 										<img style="width:100%; margin: 0em" src="/assets/logos/bluesky.svg">
